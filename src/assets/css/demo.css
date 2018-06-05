@@ -1,0 +1,16 @@
+/* global */
+html {
+    font-size: 10px;
+}
+body {
+    font-size: 1.6rem;
+}
+body * {
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: #81c77f;
+    cursor: pointer;
+}
+/* end global */
